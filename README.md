@@ -19,4 +19,4 @@ Feel free to talk to me about
 
 _Worth notice that more Typescript the better, right?_
 
-![João's Github Stats](https://github-readme-stats-joaovsouto.vercel.app/api?show_icons=true&line_height=30&title_color=048a81&icon_color=048a81&hide=["issues",%20"stars"])
+![João's Github Stats](https://github-readme-stats.joaovsouto.vercel.app/api?username=joaovsouto&show_icons=true&theme=radical&line_height=30&hide=issues,stars&hide_rank=true)
