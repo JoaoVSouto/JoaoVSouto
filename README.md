@@ -17,6 +17,6 @@ Feel free to talk to me about
 - Mobile development using **React Native**
 - Backend development using **Node.js**
 
-_Worth notice that more Typescript the better, right?_
+_Worth notice the more Typescript, the better, right?_
 
 ![João's Github Stats](https://github-readme-stats.joaovsouto.vercel.app/api?show_icons=true&theme=radical&line_height=30&hide=issues,stars&hide_rank=true)
