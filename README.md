@@ -16,6 +16,7 @@ Feel free to talk to me about
 - **UI/UX** best practices and uses
 - Mobile development using **React Native**
 - Backend development using **Node.js**
+- Literally anything related about the **Javascript** ecosystem
 
 _Worth notice the more Typescript, the better, right?_
 
