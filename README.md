@@ -12,6 +12,7 @@ I'm João Vítor, a Brazilian passionate front-end developer who loves to create
 Feel free to talk to me about
 
 - Front-end development using **React.js or Vue.js**
+- Server-side rendering with **_/N(e|u)xt.js_/**
 - State management libraries like **MobX, Redux or Vuex**
 - **UI/UX** best practices and uses
 - Mobile development using **React Native**
