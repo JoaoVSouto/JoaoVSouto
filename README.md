@@ -19,6 +19,6 @@ Feel free to talk to me about
 - Backend development using **Node.js**
 - Literally anything related about the **Javascript** ecosystem
 
-_Worth notice the more Typescript, the better, right?_
+_It's worth noticing that the more Typescript, the better, right?_
 
 ![João's Github Stats](https://github-readme-stats.joaovsouto.vercel.app/api?show_icons=true&theme=radical&line_height=30&hide=issues,stars&hide_rank=true)
