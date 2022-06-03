@@ -1,4 +1,4 @@
-## Hello, friends! <img src="https://raw.githubusercontent.com/JoaoVSouto/JoaoVSouto/master/assets/Hi.gif" width="30px">
+## Hello, friends! <img src="https://raw.githubusercontent.com/JoaoVSouto/JoaoVSouto/master/assets/Hi.gif" width="30">
 
 <img align='right' src='https://raw.githubusercontent.com/JoaoVSouto/JoaoVSouto/master/assets/github_wall.gif' width='200'>
 
