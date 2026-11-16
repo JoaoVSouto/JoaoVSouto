@@ -1,6 +1,6 @@
 ## Hi, I'm João Vítor <img src="https://raw.githubusercontent.com/JoaoVSouto/JoaoVSouto/master/assets/Hi.gif" width="30">
 
-<img align='right' src='https://raw.githubusercontent.com/JoaoVSouto/JoaoVSouto/master/assets/github_wall.gif' width='200'>
+<img align='right' src='https://raw.githubusercontent.com/JoaoVSouto/JoaoVSouto/master/assets/doom_fire_green.gif' width='200'>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Jo%C3%A3o%20V%C3%ADtor%20Souto-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-souto/)](https://www.linkedin.com/in/joao-vitor-souto/)
 [![Gmail Badge](https://img.shields.io/badge/-joaovsoutosantos@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaovsoutosantos@gmail.com)](mailto:joaovsoutosantos@gmail.com)
